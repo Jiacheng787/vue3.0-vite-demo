@@ -4,7 +4,7 @@
 
 Views 目录下的 Home.vue 采用 Vue2.x 的 Options API 语法，Contact.vue 采用 Vue3.0 的 Composition API 语法。
 
-后面会增加多环境及 TypeScrpit 支持。
+后面会增加多环境及 TypeScript 支持。
 
 
 
